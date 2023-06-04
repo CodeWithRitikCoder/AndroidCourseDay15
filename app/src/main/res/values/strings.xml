@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project 15 of Android Course With Saumya Singh- Customised Alert Boxes</string>
+    <string name="customised_alert_boxes">Customised Alert \nBoxes</string>
+    <string name="ritik_verma">Ritik Verma</string>
+    <string name="congratulations_for_showing_up_today">CONGRATULATIONS FOR SHOWING UP TODAY!</string>
+    <string name="how_is_the_android_app_dev_journey_going">How is the Android App Dev Journey going?</string>
+    <string name="send_feedback">FEEDBACK</string>
+    <string name="too_good">TOO GOOD</string>
+    <string name="customised_alert_dialogue_box">Customised Alert Dialogue Box</string>
+</resources>
